@@ -1,6 +1,6 @@
 # Section Header Generator
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/0xMshari/section-header-extension)
+[![Version](https://img.shields.io/badge/version-0.8.0-blue.svg)](https://github.com/0xMshari/section-header-extension)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A VS Code/Cursor extension that helps you organize your code with beautiful, properly formatted section headers.
