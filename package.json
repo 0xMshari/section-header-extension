@@ -2,13 +2,18 @@
   "name": "section-header-extension",
   "displayName": "Section Header Generator",
   "description": "Automatically generate formatted section headers",
-  "version": "0.6.0",
+  "version": "0.8.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xMshari/section-header-extension.git"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Other"
   ],
+  "icon": "logo.png",
   "activationEvents": [
     "onCommand:sectionHeader.insertHeader"
   ],
